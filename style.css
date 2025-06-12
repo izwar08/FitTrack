@@ -6,7 +6,6 @@ body, html {
     flex-direction: column;
     font-family: Arial, sans-serif;
     background: linear-gradient(to top, #1fb2ff, #00ff88);
-    background-repeat: no-repeat;
     background-size: 1250% auto;
 }
 
